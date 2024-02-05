@@ -1,4 +1,5 @@
 {
+    "id": "dfd3210b-430e-44a2-afef-af8bcc25064d",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -351,7 +352,6 @@
             "name": "scan"
         }
     ],
-    "id": "dfd3210b-430e-44a2-afef-af8bcc25064d",
     "thunkableVersion": 443,
     "name": "Scan"
 }
